@@ -20,7 +20,7 @@ This repository is archive of hacks created during HackIIITV 2018.
 ## How to submit?
 
 One member from each team have to follow this instructions:
-Follow the instructions in order:
+Follow the instructions in order-:
 
 1. Fork this repository.
 
